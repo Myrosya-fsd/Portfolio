@@ -22,11 +22,7 @@ body {
   min-width: 100vw;
   min-height: 100vh;
   margin: 0;
-}
-
-main {
-  flex-grow: 1;
-}
-main:has(.back-link) {
-  text-align: center;
+  font-family: 'Inter Tight', sans-serif;
+  color: #fafafa;
+  background-color: #1c1d20;
 }
